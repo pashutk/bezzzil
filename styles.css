@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+section {
+  padding: 0 1em;
+  margin: 0 auto;
+  max-width: 700px;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+header {
+  box-shadow: 0 0px 2px 0px rgba(0, 0, 0, .3);
+}
+
+.header {
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.6em;
+  margin: 0;
+  padding: .67em 0;
+}
+
+.links a {
+  padding: .4em;
+  margin-right: .5em;
+  display: inline-block;
+}
+
+.links h2 {
+  margin-bottom: 0.4em;
+}
+
+.wishlist ul {
+  list-style-type: circle;
+}
+
+.wishlist li {
+  margin-bottom: .4em;
+}
+
+.wishlist a {
+  text-decoration: underline;
+}
